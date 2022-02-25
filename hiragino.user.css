@@ -46,6 +46,9 @@ textarea {
     font-family: inherit;
 }
 
+.favInfo-box,
+.favInfo-details,
+.fav-name,
 .bili-video-card,
 .bili-video-card__info--tit,
 .international-header,
