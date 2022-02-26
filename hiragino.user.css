@@ -46,11 +46,23 @@ textarea {
     font-family: inherit;
 }
 
+
+.bold.yt-formatted-string,
+.metadata-snippet-container.ytd-video-renderer,
+#channel-name.ytd-video-renderer,
+ytd-video-meta-block:not([rich-meta]) #metadata-line.ytd-video-meta-block,
+#video-title.ytd-video-renderer,
+#search-input.ytd-searchbox-spt input,
+.title.ytd-guide-entry-renderer,
+ytd-video-meta-block[rich-meta][mini-mode] #byline-container.ytd-video-meta-block,
+ytd-video-meta-block[rich-meta][mini-mode] #metadata-line.ytd-video-meta-block,
+ytd-rich-grid-media[mini-mode] #video-title.ytd-rich-grid-media,
 #account-name.ytd-active-account-header-renderer,
 .message.ytd-notification-renderer,
 #label.ytd-compact-link-renderer,
 yt-formatted-string.ytd-menu-service-item-renderer,
-ytd-macro-markers-list-item-renderer[layout=MACRO_MARKERS_LIST_ITEM_RENDERER_LAYOUT_VERTICAL] h4.ytd-macro-markers-list-item-renderer,.html5-video-player,
+ytd-macro-markers-list-item-renderer[layout=MACRO_MARKERS_LIST_ITEM_RENDERER_LAYOUT_VERTICAL] h4.ytd-macro-markers-list-item-renderer,
+.html5-video-player,
 .ytp-caption-segment,
 .ytp-button,
 #video-title.ytd-compact-video-renderer,
@@ -84,7 +96,7 @@ html:lang(cmn-Hans) body,
 html:lang(zh-cmn-Hans) body,
 html:lang(zh-Hans) body {
     font-family: "SF Pro Text", "Hiragino Sans GB", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "苹方-简", "Noto Sans CJK SC", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
-    quotes: "“""”";
+    quotes: "「""」";
 }
 
 code,
