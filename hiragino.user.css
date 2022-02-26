@@ -5,6 +5,7 @@
 @preprocessor default
 ==/UserStyle== */
 
+#result-stats,
 .bold.yt-formatted-string,
 .metadata-snippet-container.ytd-video-renderer,
 #channel-name.ytd-video-renderer,
@@ -59,6 +60,7 @@ ytd-expander.ytd-video-secondary-info-renderer,
     font-family: "New York Small", "Hiragino Serif Pr6N", "Source Han Serif VF", serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
 }
 
+.fontV2,
 .mw-body h1:lang(zh-Hans-CN),
 .mw-body h1:lang(zh-Hans),
 .mw-body h1:lang(en) {
