@@ -46,6 +46,22 @@ textarea {
     font-family: inherit;
 }
 
+#account-name.ytd-active-account-header-renderer,
+.message.ytd-notification-renderer,
+#label.ytd-compact-link-renderer,
+yt-formatted-string.ytd-menu-service-item-renderer,
+ytd-macro-markers-list-item-renderer[layout=MACRO_MARKERS_LIST_ITEM_RENDERER_LAYOUT_VERTICAL] h4.ytd-macro-markers-list-item-renderer,.html5-video-player,
+.ytp-caption-segment,
+.ytp-button,
+#video-title.ytd-compact-video-renderer,
+#contenteditable-textarea.ytd-commentbox,
+.count-text.ytd-comments-header-renderer,
+#info-strings.ytd-video-primary-info-renderer,
+ytd-expander.ytd-video-secondary-info-renderer,
+.published-time-text.ytd-comment-renderer,
+#channel-name.ytd-video-owner-renderer,
+#owner-sub-count.ytd-video-owner-renderer,
+#content-text.ytd-comment-renderer,
 .favInfo-box,
 .favInfo-details,
 .fav-name,
