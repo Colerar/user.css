@@ -47,25 +47,25 @@ ytd-expander.ytd-video-secondary-info-renderer,
 .comment-bilibili-fold,
 .feed-card[data-v-d5df5636],
 .markdown-body {
-    font-family: "SF Pro Text", "Hiragino Sans GB", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "苹方-简", "Noto Sans CJK SC", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji !important;
+    font-family: "SF Pro Text", "PT Sans", "Hiragino Sans GB", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "苹方-简", "Noto Sans CJK SC", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji !important;
 }
 
 .blob-code-inner,
 .text-mono,
 .CodeMirror {
-    font-family: "Source Code Pro", "Hiragino Sans GB", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "苹方-简", "Noto Sans CJK SC", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "Source Code Pro", "PT Sans", "Hiragino Sans GB", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "苹方-简", "Noto Sans CJK SC", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
 }
 
 .mw-body h1:lang(ja),
 .mw-body-content h2:lang(ja) {
-    font-family: "New York Small", "Hiragino Serif Pr6N", "Source Han Serif VF", serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "New York Small", "PT Sans", "Hiragino Serif Pr6N", "Source Han Serif VF", serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
 }
 
 .fontV2,
 .mw-body h1:lang(zh-Hans-CN),
 .mw-body h1:lang(zh-Hans),
 .mw-body h1:lang(en) {
-    font-family: "New York Small", "Source Han Serif SC VF", serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "New York Small", "PT Sans", "Source Han Serif SC VF", serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
 }
 
 .mw-body h1:lang(zh),
@@ -74,7 +74,7 @@ ytd-expander.ytd-video-secondary-info-renderer,
 .mw-body h1:lang(zh-Hant-TW),
 .mw-body h1:lang(zh-Hant-MO),
 .mw-body h1:lang(zh-Hant-HK) {
-    font-family: "New York Small", "Source Han Serif TC VF", serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "New York Small", "PT Sans", "Source Han Serif TC VF", serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
 }
 
 html {
@@ -100,7 +100,7 @@ html:lang(zh-SG) body,
 html:lang(cmn-Hans) body,
 html:lang(zh-cmn-Hans) body,
 html:lang(zh-Hans) body {
-    font-family: "SF Pro Text", "Hiragino Sans GB", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "苹方-简", "Noto Sans CJK SC", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "SF Pro Text", "PT Sans", "Hiragino Sans GB", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "苹方-简", "Noto Sans CJK SC", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
     quotes: "「""」";
 }
 
@@ -131,14 +131,14 @@ html:lang(zh-Hans) code,
 html:lang(zh-Hans) kbd,
 html:lang(zh-Hans) pre,
 html:lang(zh-Hans) samp {
-    font-family: "SF Pro Text", "Hiragino Sans GB", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "苹方-简", "Source Han Mono HC", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "SF Pro Text", "PT Sans", "Hiragino Sans GB", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "苹方-简", "Source Han Mono HC", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
 }
 
 html:lang(zh-TW) body,
 html:lang(cmn-Hant) body,
 html:lang(zh-cmn-Hant) body,
 html:lang(zh-Hant) body {
-    font-family: "SF Pro Text", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans GB", "苹方-繁", "Noto Sans CJK TC", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "SF Pro Text", "PT Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans GB", "苹方-繁", "Noto Sans CJK TC", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
     quotes: "「""」";
 }
 
@@ -158,7 +158,7 @@ html:lang(zh-Hant) code,
 html:lang(zh-Hant) kbd,
 html:lang(zh-Hant) pre,
 html:lang(zh-Hant) samp {
-    font-family: "SF Pro Text", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans GB", "苹方-繁", "Source Han Mono TC", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "SF Pro Text", "PT Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans GB", "苹方-繁", "Source Han Mono TC", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
 }
 
 html:lang(zh-Hant-HK) body,
@@ -167,7 +167,7 @@ html:lang(zh-MO) body,
 html:lang(yue) body,
 html:lang(yue-Hant) body,
 html:lang(zh-yue-Hant) body {
-    font-family: "SF Pro Text", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans GB", "苹方-港", "Noto Sans CJK HC", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "SF Pro Text", "PT Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans GB", "苹方-港", "Noto Sans CJK HC", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
     quotes: "「""」";
 }
 
@@ -195,11 +195,11 @@ html:lang(zh-yue-Hant) code,
 html:lang(zh-yue-Hant) kbd,
 html:lang(zh-yue-Hant) pre,
 html:lang(zh-yue-Hant) samp {
-    font-family: "SF Pro Text", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans GB", "苹方-港", "Noto Sans CJK HK", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "SF Pro Text", "PT Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans GB", "苹方-港", "Noto Sans CJK HK", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
 }
 
 html:lang(ja) body {
-    font-family: "SF Pro Text", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans GB", "Noto Sans CJK JP", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "SF Pro Text", "PT Sans", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans GB", "Noto Sans CJK JP", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
     quotes: "「""」";
 }
 
@@ -207,18 +207,18 @@ html:lang(ja) code,
 html:lang(ja) kbd,
 html:lang(ja) pre,
 html:lang(ja) samp {
-    font-family: "SF Pro Text", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans GB", "Source Han Code JP", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "SF Pro Text", "PT Sans", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans GB", "Source Han Code JP", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
 }
 
 html:lang(ko) body {
-    font-family: "SF Pro Text", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans GB", "Noto Sans CJK KR", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "SF Pro Text", "PT Sans", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans GB", "Noto Sans CJK KR", sans-serif, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
 }
 
 html:lang(ko) code,
 html:lang(ko) kbd,
 html:lang(ko) pre,
 html:lang(ko) samp {
-    font-family: "SF Pro Text", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans GB", "Source Han Mono K", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
+    font-family: "SF Pro Text", "PT Sans", "Hiragino Sans Pr6N", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Hiragino Sans CNS", "Hiragino Sans TC", "Hiragino Sans GB", "Source Han Mono K", monospace, "Twemoji Mozilla", "Twitter Color Emoji", "Segoe UI Emoji", "Apple Color Emoji", "Segoe Fluent Icons", "Segoe MDL2 Assets", "Segoe UI Symbol", "Segoe UI Historic", emoji;
 }
 
 html:lang(fr) body {
